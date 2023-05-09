@@ -1,20 +1,6 @@
-# Copyright (C) 2023 Daniel Boissonneault
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
 # Windows .exe
 You could download the version 1.0 executable from https://github.com/fr33d0m21/Plant-Frequency-Stimulator/blob/main/dist/plantgen.exe
-```
+
 # Plant Frequency Stimulator
 
 Plant Frequency Stimulator is a desktop application that generates sound frequencies to stimulate plant growth. It is developed using Python and the Tkinter library for the graphical user interface. The application also features integration with OpenAI's GPT-3.5-turbo model to provide users with information on specific plant species and their optimal frequencies for various growth stages.
@@ -53,4 +39,18 @@ python plantgen.py
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more information.
-```
+
+Copyright (C) 2023 Daniel Boissonneault
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
