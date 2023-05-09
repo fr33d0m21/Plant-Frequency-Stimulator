@@ -1,3 +1,5 @@
+![plant_gen](https://github.com/fr33d0m21/Plant-Frequency-Stimulator/assets/121200484/54d187a6-a829-4a24-9f76-f1da4de99664)
+
 # Windows .exe
 You could download the version 1.0 executable from https://github.com/fr33d0m21/Plant-Frequency-Stimulator/blob/main/dist/plantgen.exe
 
