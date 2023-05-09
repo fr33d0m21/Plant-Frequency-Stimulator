@@ -1,0 +1,7 @@
+numpy
+pyaudio
+pydub
+simpleaudio
+synthesizer
+tkinter
+ttktheme
