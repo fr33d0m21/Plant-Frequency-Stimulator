@@ -9,7 +9,7 @@ Plant Frequency Stimulator is a desktop application that generates sound frequen
 
 - Adjustable frequency slider for generating sound frequencies between 50 Hz and 900 Hz.
 - Play button for generating the selected frequency.
-- GPT-3.5-turbo integration for providing information on plant species and their optimal frequencies.
+- AI integration for providing information on plant species and their optimal frequencies.
 - Ability to ask questions about plant species and receive answers from the AI.
 
 ## Installation
